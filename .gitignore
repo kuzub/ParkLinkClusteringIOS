@@ -193,6 +193,8 @@ PublishScripts/
 csx/
 *.build.csdef
 
+
+
 # Microsoft Azure Emulator
 ecf/
 rcf/
@@ -328,3 +330,4 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+.DS_Store
